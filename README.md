@@ -1,2 +1,0 @@
-# TestCodeFlagBot
-sample files
