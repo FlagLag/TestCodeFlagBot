@@ -1,12 +1,12 @@
-curl -XPOST -H 'Authorization: token 68f3c5437ad8188926535e8f9a1e8f9c45fe921b' -d '{"title":"my first issue","body":"curl cmd not working", "head":"branch","base":"master"}' https://api.github.com/repos/FlagLag/TestCodeFlagBot/
-w
-re
-berb
-setn
-tn
-sr
-nts
-etyn
-tyme
-tm
-dtm
+curl -XPOST -H 'Authorization: token 68f3c5437ad8188926535e8f9a1e8f9c45fe921b' -d '{"title":"my first wevwevwissue","body":"curl cmd not working", "head":"branch","base":"master"}' https://api.github.com/repos/FlagLagv/TestCodeFlagBot/
+wwev
+rewv
+berbw
+setnevw
+tnvw
+srv
+ntswev
+etynwev
+tymewe
+tmvwe
+dtmvwevwevwev
